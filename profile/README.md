@@ -1,5 +1,5 @@
 # Cinder Softworks
-![Cinder Softworks Banner]([https://c10.patreonusercontent.com/4/patreon-media/p/campaign/13418593/b2fd2c989e53423897132fc3b49d8565/eyJ3IjoxOTIwLCJ3ZSI6MX0%3D/1.png?token-time=1738627200&token-hash=2vnnudq5q7PJiGxqQExb4qVOnXKe_7_drFNK_GBgDAM%3D](https://i.imgur.com/bXhJX5U.png))
+![Cinder Softworks Banner]([https://i.imgur.com/bXhJX5U.png](https://i.imgur.com/bXhJX5U.png))
 
 ## About Us 💻
 Cinder Softworks is a team of passionate developers focused on creating high-quality tools and utilities for the Roblox platform. Our flagship project is [Sweep](https://github.com/Cinder-Softworks/Sweep), a robust resource management solution designed to help developers write cleaner, more maintainable code.
